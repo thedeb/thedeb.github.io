@@ -1,2 +1,3 @@
 name: The Deb, GIS Flounder
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
